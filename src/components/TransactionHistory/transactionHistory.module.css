@@ -1,0 +1,23 @@
+.transactionHistory {
+  max-width: 880px;
+  margin: auto;
+  margin-bottom: 100px;
+}
+
+.Th {
+  width: 290px;
+  background-color: #00bcd4;
+  font-size: 15px;
+  line-height: 2.2;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.Td {
+  text-align: center;
+  text-transform: capitalize;
+  color: #727d87;
+  font-size: 17px;
+  line-height: 2.2;
+  border: solid 1px #ecf2f3;
+}
