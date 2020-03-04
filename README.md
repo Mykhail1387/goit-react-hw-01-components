@@ -1,1 +1,3 @@
-my first home work
+---
+permalink: /index.html
+---
